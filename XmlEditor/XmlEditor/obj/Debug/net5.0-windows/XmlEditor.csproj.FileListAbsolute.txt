@@ -1,0 +1,49 @@
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\UserControls\XmlEditorUsercontrol.g.cs
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor_MarkupCompile.cache
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor_MarkupCompile.lref
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.exe
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.deps.json
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.runtimeconfig.json
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.runtimeconfig.dev.json
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.dll
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\ref\XmlEditor.dll
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.pdb
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\UserControls\XmlEditorUsercontrol.baml
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.g.resources
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.AssemblyInfoInputs.cache
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.AssemblyInfo.cs
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.dll
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\ref\XmlEditor.dll
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.pdb
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.genruntimeconfig.cache
+C:\Users\aydin.kahya\Desktop\XML Editor\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.exe
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.deps.json
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.runtimeconfig.json
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.runtimeconfig.dev.json
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.dll
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\bin\Debug\net5.0-windows\XmlEditor.pdb
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\UserControls\XmlEditorUsercontrol.g.cs
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor_MarkupCompile.cache
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor_MarkupCompile.lref
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\UserControls\XmlEditorUsercontrol.baml
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.g.resources
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.AssemblyInfo.cs
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.dll
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\refint\XmlEditor.dll
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.pdb
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\XmlEditor.genruntimeconfig.cache
+C:\Users\pc\Desktop\XmlEditor\XmlEditor\obj\Debug\net5.0-windows\ref\XmlEditor.dll
